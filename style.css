@@ -125,7 +125,6 @@ section .title::after{
 .navbar.sticky .menu li a:hover{
     color: #fff;
 }
-
 /* menu btn styling */
 .menu-btn{
     color: #fff;
@@ -211,6 +210,10 @@ section .title::after{
 .home .home-content a:hover{
     color: #8c0ea9;
     background: none;
+}
+
+.home-content{
+    list-style: none;
 }
 
 /* about section styling */
