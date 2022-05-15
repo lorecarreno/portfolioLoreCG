@@ -1,0 +1,73 @@
+[33mcommit 57313625783cd309befe4db6bb090c1161216d24[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Lorenacg <rodelugaliza@gmail.com>
+Date:   Sun May 15 12:32:24 2022 -0300
+
+    modificados los estiloos de home
+
+[33mcommit e4045ae674164615e7d9a8eee0e08dabf2995a02[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 631766c 5e569fb
+Author: Lorenacg <rodelugaliza@gmail.com>
+Date:   Sat May 14 19:20:21 2022 -0300
+
+    Merge branch 'main' of https://github.com/lorecarreno/portfolioLoreCG into main
+
+[33mcommit 631766ccaa7878cd1bb19cbf1799ea04fe3cee42[m
+Author: Lorenacg <rodelugaliza@gmail.com>
+Date:   Sat May 14 19:20:10 2022 -0300
+
+    se agregan los cambios en head
+
+[33mcommit ccef3bab205f7a9b960a01c1d1e1677437d14702[m
+Merge: 43275e5 5df3a62
+Author: Lorenacg <rodelugaliza@gmail.com>
+Date:   Sat May 14 19:02:19 2022 -0300
+
+    Merge branch 'main' of https://github.com/lorecarreno/portfolioLoreCG into main
+
+[33mcommit 5e569fb2669447970ca6ba22c544ceabd72453ee[m
+Author: Lorena CG <rodelugaliza@gmail.com>
+Date:   Sat May 14 18:16:41 2022 -0300
+
+    Create CNAME
+
+[33mcommit 43275e5e3553239d54507e5c008635e661a0a85e[m
+Author: Lorenacg <rodelugaliza@gmail.com>
+Date:   Sat May 14 16:11:37 2022 -0300
+
+    agrego botones en home
+
+[33mcommit 5df3a62ae2b7c7bd15f2a3762aaed5b106a66bb3[m
+Author: Lorena CG <rodelugaliza@gmail.com>
+Date:   Sat May 14 16:09:51 2022 -0300
+
+    Delete CNAME
+
+[33mcommit 797569ce8aa07740ae59705f106673ad4cec22e0[m
+Author: Lorena CG <rodelugaliza@gmail.com>
+Date:   Sat May 14 16:02:02 2022 -0300
+
+    Create CNAME
+
+[33mcommit cfc4b402fd2d41c0a8eeb1b032fd4d9e86101a90[m
+Author: Lorenacg <rodelugaliza@gmail.com>
+Date:   Fri May 13 16:34:32 2022 -0300
+
+    cambios en home
+
+[33mcommit 086ef154b20bbb033a267005545138a1aea3a06e[m
+Author: Lorenacg <rodelugaliza@gmail.com>
+Date:   Fri May 13 15:51:27 2022 -0300
+
+    cambios
+
+[33mcommit a7f91e7bff004ac02abcc30e8e37f6f4dc120ac6[m
+Author: Lorenacg <rodelugaliza@gmail.com>
+Date:   Fri May 13 15:27:50 2022 -0300
+
+    subiendo para deploy
+
+[33mcommit 2e7479ac59c7a2a866cac3ce96ca6e2afead986d[m
+Author: Lorenacg <rodelugaliza@gmail.com>
+Date:   Fri May 13 15:25:09 2022 -0300
+
+    first commit
